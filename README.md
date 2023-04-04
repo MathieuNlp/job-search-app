@@ -1,4 +1,4 @@
-# Expo Router - Build a Job Search Application
+# Expo Router - Build a Job Search Application with React Native
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
