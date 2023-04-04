@@ -18,6 +18,6 @@ Scan the QR with Expo Go on your phone to interact with the app
 
 ## Aknowledgments
 
-This build done thanks to JavaScriptMastery tutorial
+This build is done thanks to JavaScriptMastery tutorial
 
 
