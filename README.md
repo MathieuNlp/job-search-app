@@ -16,7 +16,7 @@ expo-cli start --tunel
 Scan the QR with Expo Go on your phone to interact with the app
 
 
-## 📝 Aknowledgments
+## Aknowledgments
 
 This build done thanks to JavaScriptMastery tutorial
 
